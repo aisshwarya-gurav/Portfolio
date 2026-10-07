@@ -1,0 +1,13 @@
+body { margin: 0; font-family: system-ui, sans-serif; background: #f6f7fb; color: #1b1f2a; }
+.container { max-width: 860px; margin: 0 auto; padding: 40px 20px; }
+.header h1 { margin: 0; font-size: 2.3rem; }
+.tagline { color: #555; margin: 6px 0 14px; }
+nav a { margin-right: 16px; color: #2f5bd3; text-decoration: none; font-weight: 600; }
+h2 { margin-top: 40px; border-bottom: 2px solid #e2e5ee; padding-bottom: 6px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; }
+.card { background: #fff; border: 1px solid #e2e5ee; border-radius: 12px; padding: 18px; }
+.card h3 { margin: 0 0 8px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.chip { background: #e8eefc; color: #2f5bd3; padding: 4px 10px; border-radius: 999px; font-size: 0.85rem; }
+.skills h4 { margin: 16px 0 4px; }
+footer { margin-top: 48px; color: #888; font-size: 0.9rem; }
